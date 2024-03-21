@@ -9,6 +9,6 @@ target 'SnapshotTest' do
 
   target 'SnapshotTestTests' do
     inherit! :search_paths
-    # pod 'iOSSnapshotTestCase'
+    pod 'iOSSnapshotTestCase'
   end
 end
